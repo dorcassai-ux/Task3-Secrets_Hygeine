@@ -1,0 +1,2 @@
+0 0 * * * /bin/bash /home/ubuntu/task-3-backup/backup.sh >> /home/ubuntu/task-3-backup/backup.log 2>&1
+
